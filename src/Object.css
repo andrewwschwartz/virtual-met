@@ -1,0 +1,8 @@
+.object_content {
+    padding: 1em;
+    text-align: center;
+}
+
+#primary_image {
+    box-shadow: #0000006e 4px 3px 6px;
+}

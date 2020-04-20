@@ -1,0 +1,27 @@
+#department_list ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0 auto;
+    text-align: center;
+}
+#department_list ul li{
+    display: inline-block;
+    vertical-align: top;
+    background-color: #E4002B;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+
+#department_list ul li a{
+    list-style: none;
+    color: white;
+}
+#department_list ul li:hover {
+    background-color: rgb(165, 0, 30);
+}
+
+h3 {
+    text-align: center;
+}

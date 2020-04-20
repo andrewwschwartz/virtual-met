@@ -1,0 +1,12 @@
+#objects_list img {
+    max-width: 100px;
+}
+
+#no_image {
+    width: 100px;
+    height: 114.84px;
+    background-color: gray;
+}
+.object_card {
+    border: solid black 1px;
+}

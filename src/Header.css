@@ -1,0 +1,22 @@
+.navbar {
+    background-color: #E4002B;
+    margin-bottom: 1em;
+}
+#header-content a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+#header-content h1 {
+    color:white;
+    text-align: center;
+}
+
+#header-content p {
+    color:white;
+    text-align: center;
+}
+
+#header-content {
+    width: -webkit-fill-available;
+}
